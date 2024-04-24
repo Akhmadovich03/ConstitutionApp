@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/nav_settings"
+            android:title="Sozlamalar"/>
+        <item
+            android:id="@+id/info"
+            android:icon="@drawable/nav_info"
+            android:title="Dastur haqida"/>
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/nav_share"
+            android:title="Bo'lishish"/>
+
+</menu>
